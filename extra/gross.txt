@@ -1,0 +1,4 @@
+eid	name	dept	bs	hra	dt	ta	gs
+
+1	s	mag	3888	10.00	2.00	5.00	3905.00
+2	d	em	3000	10.00	2.00	4.00	3016.00
