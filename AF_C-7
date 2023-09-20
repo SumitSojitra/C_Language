@@ -6,7 +6,7 @@ E D C B A
 
 #include<stdio.h>
 
-main()
+void main()
 {
 	
 	for(char i='A'; i<='E'; i++)
